@@ -1,0 +1,5 @@
+Rick and Morty
+A user is able to assign Ricks and Morties a universe number
+A user is able to add residents to the Citadel
+A user is able to turn all Ricks with asssigned Morties to pickles
+(watch s03e03 for more information)
